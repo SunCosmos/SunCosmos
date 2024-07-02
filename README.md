@@ -10,6 +10,6 @@
 </p>
 <p>Languages</p>
 <p>
-  <image src="image/java.png" width=”20“ height="20"> Java
-    <image src="image/Python.png" width=”20“ height="20"> Python
+  <image src="image/java.png" width=”15“ height="15"> Java &emsp;
+    <image src="image/Python.png" width=”15“ height="15"> Python
 </p>
