@@ -11,6 +11,7 @@
 </p>
 
 **Languages**
+
 <p>
   <image src="image/java.png" width=”15“ height="15"> Java &emsp;
   <image src="image/Python.png" width=”15“ height="15"> Python &emsp;
@@ -20,6 +21,17 @@
   <image src="image/js.png" width=”15“ height="15"> JavaScrpit &emsp;
   <image src="image/php.png" width=”15“ height="15"> PHP &emsp;
   <image src="image/sql.png" width=”15“ height="15"> SQL &emsp;
+</p>
+
+**Technologies**
+
+<p>
+  <image src="image/liunx.png" width=”15“ height="15"> Liunx &emsp;
+  <image src="image/windows.png" width=”15“ height="15"> Windows &emsp;
+  <image src="image/docker.png" width=”15“ height="15"> Docker &emsp;
+  <image src="image/centos.png" width=”15“ height="15"> CentOS &emsp;
+  <image src="image/Nodejs.png" width=”15“ height="15"> Node.js &emsp;
+  <image src="image/ali.png" width=”15“ height="15"> Aliyun &emsp;
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunCosmos&theme=rose&show_icons=true)
