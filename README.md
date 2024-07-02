@@ -28,4 +28,4 @@
   <image src="image/Nodejs.png" width=”15“ height="15"> Node.js &emsp;
   <image src="image/ali.png" width=”15“ height="15"> Aliyun &emsp;
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunCosmos)](https://github.com/anuraghazra/github-readme-stats)
