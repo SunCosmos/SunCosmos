@@ -11,5 +11,5 @@
 <p>Languages</p>
 <p>
   <image src="image/java.png" width=”20“ height="20"> Java
-    <image src="image/Pyhone.png" width=”20“ height="20"> Pythone
+    <image src="image/Pyhon.png" width=”20“ height="20"> Python
 </p>
