@@ -37,4 +37,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunCosmos&theme=rose&show_icons=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SunCosmos&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SunCosmos&row=2&column=3&theme=onedark)](https://github.com/SunCosmos)
