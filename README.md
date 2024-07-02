@@ -8,7 +8,7 @@
 <img src="image/qq.png" alt="Sun_Cosmos" width="30" height="30">
 </a>
 </p>
-<p>Languages</p>
+<p style="font-wegith:bold;">Languages</p>
 <p>
   <image src="image/java.png" width=”15“ height="15"> Java &emsp;
   <image src="image/Python.png" width=”15“ height="15"> Python &emsp;
@@ -18,4 +18,13 @@
   <image src="image/js.png" width=”15“ height="15"> JavaScrpit &emsp;
   <image src="image/php.png" width=”15“ height="15"> PHP &emsp;
   <image src="image/sql.png" width=”15“ height="15"> SQL &emsp;
+</p>
+<p style="font-wegith:bold;">Technologies</p>
+<p>
+  <image src="image/liunx.png" width=”15“ height="15"> Liunx &emsp;
+  <image src="image/windows.png" width=”15“ height="15"> Windows &emsp;
+  <image src="image/docker.png" width=”15“ height="15"> Docker &emsp;
+  <image src="image/cnetos.png" width=”15“ height="15"> CentOS &emsp;
+  <image src="image/Nodejs.png" width=”15“ height="15"> CSS &emsp;
+  <image src="image/ali.png" width=”15“ height="15"> Aliyun &emsp;
 </p>
