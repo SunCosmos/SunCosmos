@@ -10,5 +10,5 @@
 </p>
 <p>Technologies</p>
 <p>
-  <image src=""
+  <image src="image/java.png" width=”20“ height="20"> Java
 </p>
