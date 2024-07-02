@@ -10,4 +10,16 @@
 </a>
 </p>
 
+**Languages**
+<p>
+  <image src="image/java.png" width=”15“ height="15"> Java &emsp;
+  <image src="image/Python.png" width=”15“ height="15"> Python &emsp;
+  <image src="image/C.png" width=”15“ height="15"> C++ &emsp;
+  <image src="image/html.png" width=”15“ height="15"> html &emsp;
+  <image src="image/css.png" width=”15“ height="15"> CSS &emsp;
+  <image src="image/js.png" width=”15“ height="15"> JavaScrpit &emsp;
+  <image src="image/php.png" width=”15“ height="15"> PHP &emsp;
+  <image src="image/sql.png" width=”15“ height="15"> SQL &emsp;
+</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunCosmos&theme=rose&show_icons=true)
