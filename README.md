@@ -11,5 +11,9 @@
 <p>Languages</p>
 <p>
   <image src="image/java.png" width=”15“ height="15"> Java &emsp;
-    <image src="image/Python.png" width=”15“ height="15"> Python
+  <image src="image/Python.png" width=”15“ height="15"> Python &emsp;
+  <image src="image/C.png" width=”15“ height="15"> C++ &emsp;
+  <image src="image/html.png" width=”15“ height="15"> html &emsp;
+  <image src="image/css.png" width=”15“ height="15"> CSS &emsp;
+  <image src="image/js.png" width=”15“ height="15"> JavaScrpit &emsp;
 </p>
