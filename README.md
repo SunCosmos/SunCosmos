@@ -4,8 +4,8 @@
 <a href="https://space.bilibili.com/396557587">
 <img src="image/bilibili.png" alt="Sun_Cosmos" width="50" height="50">
 </a>
-<a href="https://space.bilibili.com/396557587">
-<img src="image/bilibili.png" alt="Sun_Cosmos" width="50" height="50">
+<a href="https://t.me/SunCosmos">
+<img src="image/telegram.png" alt="Sun_Cosmos" width="50" height="50">
 </a>
 </p>
 
