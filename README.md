@@ -16,4 +16,6 @@
   <image src="image/html.png" width=”15“ height="15"> html &emsp;
   <image src="image/css.png" width=”15“ height="15"> CSS &emsp;
   <image src="image/js.png" width=”15“ height="15"> JavaScrpit &emsp;
+  <image src="image/php.png" width=”15“ height="15"> PHP &emsp;
+  <image src="image/sql.png" width=”15“ height="15"> SQL &emsp;
 </p>
