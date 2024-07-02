@@ -8,4 +8,7 @@
 <img src="image/qq.png" alt="Sun_Cosmos" width="30" height="30">
 </a>
 </p>
-
+<p>Technologies</p>
+<p>
+  <image src=""
+</p>
