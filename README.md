@@ -24,7 +24,7 @@
   <image src="image/liunx.png" width=”15“ height="15"> Liunx &emsp;
   <image src="image/windows.png" width=”15“ height="15"> Windows &emsp;
   <image src="image/docker.png" width=”15“ height="15"> Docker &emsp;
-  <image src="image/cnetos.png" width=”15“ height="15"> CentOS &emsp;
-  <image src="image/Nodejs.png" width=”15“ height="15"> CSS &emsp;
+  <image src="image/centos.png" width=”15“ height="15"> CentOS &emsp;
+  <image src="image/Nodejs.png" width=”15“ height="15"> Node.js &emsp;
   <image src="image/ali.png" width=”15“ height="15"> Aliyun &emsp;
 </p>
