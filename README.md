@@ -39,4 +39,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SunCosmos&row=2&column=4&theme=onedark)](https://github.com/SunCosmos)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunCosmos)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunCosmos)](https://github.com/SunCosmos)
