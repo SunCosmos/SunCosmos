@@ -8,7 +8,8 @@
 <img src="image/qq.png" alt="Sun_Cosmos" width="30" height="30">
 </a>
 </p>
-<p>Technologies</p>
+<p>Languages</p>
 <p>
   <image src="image/java.png" width=”20“ height="20"> Java
+    <image src="image/Pyhone.png" width=”20“ height="20"> Pythone
 </p>
